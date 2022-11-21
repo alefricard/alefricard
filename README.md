@@ -1,10 +1,6 @@
 ## Hello welcome to Alef ricardo's repository!
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alefricard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefricard&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
